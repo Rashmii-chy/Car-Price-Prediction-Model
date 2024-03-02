@@ -1,4 +1,7 @@
 Car Price Prediction Model
+
+
+
 This project aims to develop a machine learning model for predicting used car prices based on various features such as current price, mileage, fuel type, seller type, transmission type, owner count, and car age. The model is deployed as an interactive web application using both Streamlit and Tkinter for graphical user interface (GUI) development.
 
 Features
